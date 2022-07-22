@@ -1,0 +1,115 @@
+h1,h2,h3{
+    font-family: segoe print;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    font-family: segoe print;
+    color: aliceblue;
+}
+::selection {
+    color: black;
+    background: #ff9e14;
+  }
+body{
+    background-color: black;
+}
+#hq1{
+    font-family: segoe print;
+    text-align: center;
+
+}
+
+#img{
+    width: 15rem;
+    animation-name: code ;
+    animation-duration: 10s;
+    animation-iteration-count: 1;
+    border-radius:2rem;
+    display: inline-block;
+    
+
+}
+#am{
+    
+    display: inline-block;
+    
+}
+@keyframes code
+ {
+     0%{
+         width: 0rem;
+     }
+     25%{
+         width: 18rem
+     }
+    50% {
+        width: 0rem;
+    }
+    75%{
+        width: 18rem;
+    }
+    
+}
+#jp,#graph{
+    width: 10 cm;
+    height: 9cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pd,#pd2,#fe,#tra,#auto,#fe,#ui{
+    width: 47.244100440202rem;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+}
+#ma{
+    width: 17cm;
+    height: 9cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    color: aliceblue;
+    font-family: comic sans ms;
+    text-align: center;
+}
+#ar,#sms{
+    width: 10 cm;
+    height: 9cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#ii{
+    width: 15 cm;
+    height: 14cm;
+    text-align: justify;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#calls{width: 25cm;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+}
+#terminal,#theme{
+    width: 10cm;
+    text-align: center;
+}
+li{
+    font-family: segoe print;
+}
+
+
+
